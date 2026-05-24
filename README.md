@@ -1,9 +1,9 @@
 # Jonas de Brito
 
 
-Olá, tenho 21 anos e sou apaixonado por tecnologia, a área da programção é uma área que me fascina e me faz cada vez estudar mais e buscar aprender como realmente as coisas funcionam e conseguir criar com as minhas próprias mãos.
+Olá, tenho 22 anos e sou apaixonado por tecnologia, a área da programação é uma área que me fascina e me faz cada vez estudar mais e buscar aprender como realmente as coisas funcionam e conseguir criar com as minhas próprias mãos.
 <br><br>
-No momento estou no 5° semestre da faculdade de ciência da computação e trabalho como auxiliar de TI em um colégio.
+No momento estou no 5° semestre da faculdade de ciência da computação e sou estagiário em BI.
 <br><br>
 Meu foco primordial para esse ano e focar nas minhas habilidades com python e desenvolver projetos com essa linguagem aproveitando suas bibliotecas, como: Django, requests, tensorflow.
 <br>
